@@ -305,3 +305,6 @@
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards; }
   
+    .rich-text{
+        font-family: 'Futra'
+    }
