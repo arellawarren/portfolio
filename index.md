@@ -1,5 +1,5 @@
 <html>
   <head>
-    <META http-equiv="refresh" content="0;URL=/pages/gallery.html">
+    <META http-equiv="refresh" content="0;URL=/portfolio/pages/gallery.html">
   </head>
 </html>
